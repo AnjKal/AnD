@@ -7,3 +7,4 @@ tqdm>=4.65.0
 numpy>=1.24.0
 scikit-learn>=1.2.2
 python-dateutil>=2.8.2
+fitz>=0.0.1.dev2

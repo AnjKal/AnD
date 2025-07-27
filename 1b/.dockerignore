@@ -1,0 +1,28 @@
+# Git
+.git
+.gitignore
+
+# Virtual Environment
+and/
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development
+output/
+models/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# System files
+.DS_Store
+Thumbs.db
