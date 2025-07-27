@@ -120,7 +120,6 @@ Results are saved in `results/summary.json` with the following structure:
 ```
 
 ## Performance Tips
-- For large documents, processing may take several minutes
 - The system automatically uses GPU if available
 - Processing is parallelized across multiple CPU cores
 - Results are cached to improve performance on subsequent runs
