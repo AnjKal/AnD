@@ -78,8 +78,3 @@ python main.py --input sample.pdf --output my_outline.json
 - For large PDFs, processing may take several minutes
 - Make sure you have sufficient disk space for the output file
 
-## License
-[Specify License]
-
-## Contact
-[Your Contact Information]
